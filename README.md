@@ -2,7 +2,7 @@
 
 Tukaj je zbirka poročil, nalog in simulacij, ki sem jih naredil tekom študija na Fakulteti za matematiko in fiziko (FMF) v Ljubljani. 
 
-Večina kode je napisana v Pythonu, poročila pa so zbrana v priloženih PDF-jih.
+Koda uporabljena za reševanje nalog in simulacij, je bila v celoti napisana v Pythonu (pri čimer sem si seveda pomagal tudi z Gemini CLI), poročila pa so zbrana v priloženih PDF-jih.
 
 ## Vsebina repozitorija
 
